@@ -17,4 +17,4 @@ __pycache__/
 .idea/
 
 # Environment variables
-.env
+alx_travel_app/.env
